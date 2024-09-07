@@ -13,7 +13,7 @@ calculatorPlus application
 6.Pushed the branch to Github using "git push --set-upstream origin dev".
 7.Branch protection rule is enabled on dev branch for mandatory pull request & code review.
 8.Merged this to main branch using "git checkout main" & "git merge dev"
-9.Created 1st version of release with "calculator1" tag
+9.Created 1st version of release with "calculator_1" tag
 10.Added one classmate as collaborator.
 11.created feature/sqrt branch using "git checkout -b feature/sqrt" for implementing sqrt functionality
 12.updated the calculatorPlus.py file with sqrt functionality
@@ -24,7 +24,7 @@ calculatorPlus application
 17.The bug fix is merged to feature/sqrt branch and a pull request with code review is submitted to merge to main branch
 18.After pull request is approved, "feature/sqrt" branch is merged into the ‘dev’ branch.
 19.Dev branch is merged to main branch
-20.Created 2nd version of release with "calculator2" tag
+20.Created 2nd version of release with "v2" tag
 
 Git LFS (Large File Storage) integration
 
